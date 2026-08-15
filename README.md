@@ -4,6 +4,6 @@
     <title>My First Page</title>
 </head>
 <body>
-    <h1>Hello World! Maine HTML se shuruat ki hai.</h1>
+    <h1>Hello World </h1>
 </body>
 </html>
