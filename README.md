@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First Page</title>
-</head>
-<body>
-    <h1>Hello World </h1>
-</body>
-</html>
+# Web Dev Mini Projects
+
+Is repository me mere HTML, CSS aur JavaScript ke practice projects hain.
+
+## Projects List
+- Simple Webpage
+- Interactive Quiz App
+- Portfolio Website
